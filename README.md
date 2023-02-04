@@ -11,5 +11,6 @@ You can test them easily with the help of - https://github.com/0xKitsune/gas-lab
 |:--:|:-------|:--:|
 | G-01 | ++i costs less gas than i++, especially when it's used in for-loops (--i/i-- too) | 26 |
 | G-02 | Cache array length outside of loop | 192 |
-| G-03 | += costs more gas than = + for state variables | |
+| G-03 | += costs more gas than = + for state variables | 38 |
+| G-04 | Don't initialize variables with default value | |
 
