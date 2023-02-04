@@ -1,3 +1,10 @@
+## Note
+1. The gas savings given are based on the examples l've written and tested with foundry. 
+2. They might not be accurate for your codebase and the best way to see how much gas you can save is by testing them yourself.
+
+You can test them easily with the help of - https://github.com/0xKitsune/gas-lab
+
+
 # Gas Optimizations Template
 
 | Count | Explanation | Gas saved |
