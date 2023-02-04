@@ -1,2 +1,6 @@
-# Gas-Optimizations
-List of often found gas optimizations and how much gas they actually save. Every optimization in the list is tested with Foundry.
+# Gas Optimizations Template
+
+| Count | Explanation | Gas saved |
+|:--:|:-------|:--:|
+| G-01 | ++i costs less gas than i++, especially when it's used in for-loops (--i/i-- too) | |
+
